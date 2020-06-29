@@ -5,8 +5,5 @@ def fizzbuzz
 end
 
 def fizzbuzz(int)
-  if Integer / 3 == 0 
-    puts "Fizz"
-    
-end
+  if int 
   
